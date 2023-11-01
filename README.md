@@ -1,5 +1,5 @@
 ## Welcome to my GitHub page
-### About Me
+### :bust_in_silhouette: About Me
 
 Hi there, my name is Diana Pham.
 
