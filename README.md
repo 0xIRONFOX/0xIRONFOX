@@ -1,7 +1,7 @@
 ## Welcome to my GitHub page
 ### :bust_in_silhouette: About Me
 
-Hi there, my name is Diana Pham.
+#### Hi there, my name is Diana Pham.
 
 I'm a graduate of The University of Texas at Arlington with a doctorate's in Physics and a bachelor's degree in Biology. 
 
