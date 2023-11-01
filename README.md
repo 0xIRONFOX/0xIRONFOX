@@ -1,5 +1,5 @@
 ## Welcome to my GitHub page
-# About Me
+### About Me
 
 Hi there, my name is Diana Pham.
 
