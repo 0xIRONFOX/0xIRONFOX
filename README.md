@@ -22,7 +22,7 @@ I'm a graduate of The University of Texas at Arlington with a doctorate's in Phy
 ## ⚙ Skills
 
 
-### 👨‍💻 Languages
+### Languages
 
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
@@ -32,7 +32,7 @@ I'm a graduate of The University of Texas at Arlington with a doctorate's in Phy
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /> </a>
 </div>
 
-### 🛠 Technologies
+### Technologies
 
 <div align="left">
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
@@ -50,7 +50,7 @@ I'm a graduate of The University of Texas at Arlington with a doctorate's in Phy
 
 
 
-### 📚 Libraries
+### Libraries
 
 <div align="left">
   <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
