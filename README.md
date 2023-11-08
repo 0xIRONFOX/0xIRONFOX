@@ -5,6 +5,11 @@ Hi there, my name is Diana Pham.
 
 I'm a graduate of The University of Texas at Arlington with a doctorate's in Physics and a bachelor's degree in Biology. 
 
+Talented and dedicated analyst with a wide background in biology, physics, and finance. Innovative
+researcher and writer, equally skilled at intricate data analysis and broad applications of theory. Project leader who
+communicates well peer-to-peer as well as with upper management, including non-technical speakers. Experienced in analyzing
+and large sets of genomic data, modelling and evaluating complex systems. Fluent in English and Vietnamese.
+
 ## :envelope: Social & Contact
 <div align="left">
   <a href="mailto:dpham.uta@gmail.com" target="_blank" rel="noreferrer"> <img alt="Diana Pham's E-mail Address" src="https://img.shields.io/badge/E&#8209;mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
